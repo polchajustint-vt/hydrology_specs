@@ -1,0 +1,24 @@
+.bing-bong {
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: blueviolet;
+}
+
+#middle {
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
